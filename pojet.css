@@ -1,0 +1,95 @@
+body{
+    
+    font-family: 'Lato', sans-serif;
+    
+    color: #2673AD;
+    background-color: #F3C8EE;
+    font-size: 20px;
+    height: 100%;
+    width: 60%;
+    
+    
+}
+
+.body{
+    width:100%;
+    text-align: justify;
+    margin-right: 200px;
+    margin-left: 300px;
+    display: inline-block;
+    
+}
+
+
+    
+    
+}
+
+
+.titre{
+    
+    width: 250px;
+    text-align: center;
+    margin: auto;
+    
+   
+}
+     
+    
+.BIOWIKI{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 40px;
+ 
+}
+    
+    
+
+
+.icone{
+     
+    margin-bottom: 5%;
+    margin-right:  20%;
+    
+    
+    
+}
+.willimage{
+    width: 10px;
+    margin: 20px;
+    margin-top: 20%; 
+    margin-left: 18%;
+    
+}
+
+.cote image{
+    text-align:justify;
+    margin: 30%;
+
+             
+    
+        
+}
+
+.willbio{
+    text-align: justify;
+    margin-left: 40px;
+    margin-left: 40px;
+    
+}
+
+.mon tableau{
+    
+}
+.trait{
+    width: auto;
+    color: #2A91BB;
+    font-size:100%;
+}
+ 
+.cote{
+    margin-left:  40%;
+    margin-bottom: 30%;
+}
